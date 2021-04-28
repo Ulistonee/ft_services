@@ -7,7 +7,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b4faa3-f4e4-40e1-8cae-476bdef73ebe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/42toolbox/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/42toolbox/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/42toolbox/free_space.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/42toolbox/init_docker.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/42toolbox/init_session.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/42toolbox/shell_utils.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/apache/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/apache/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/apache/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/cli.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/docker_compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/MYSQL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/NGINX.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/PHP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/SSL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/srcs/config.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/srcs/default" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/srcs/localhost.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/srcs/ssl/dhparam.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/srcs/ssl/nginx-selfsigned.crt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/srcs/ssl/nginx-selfsigned.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/srcs/ssl/self-signed.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/srcs/ssl/ssl-params.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/srcs/start_script.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server-ipasta/srcs/wp-config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server/.idea/ft_server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server/srcs/autoindex.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server/srcs/config.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server/srcs/init.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server/srcs/my_config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/ft_server/srcs/wp-config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/goinfre.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/insert_docker_to_goinfre.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_server/testfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/.idea/ft_services.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/configmap.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/nginx.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/srcs/autoindex.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/srcs/config.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/srcs/init.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/srcs/my_config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/srcs/wp-config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_services/supervisor.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kubectl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/minikube" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nginx.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/autoindex.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/config.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/init.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/my_config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/wp-config.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../libft/ft_strlen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libft/ft_strlen.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/Makefile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/a" beforeDir="false" />
@@ -85,8 +150,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/srcs" />
+      <recent name="$PROJECT_DIR$/srcs/nginx/srcs" />
+      <recent name="$PROJECT_DIR$/srcs/nginx" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/srcs/nginx/srcs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -104,10 +186,37 @@
       <workItem from="1619178807654" duration="3534000" />
       <workItem from="1619190246623" duration="3079000" />
       <workItem from="1619201972993" duration="116000" />
+      <workItem from="1619292560716" duration="34000" />
+      <workItem from="1619429767854" duration="836000" />
+      <workItem from="1619443660143" duration="416000" />
+      <workItem from="1619448709971" duration="3697000" />
+      <workItem from="1619520434594" duration="1794000" />
+      <workItem from="1619530788391" duration="1338000" />
+      <workItem from="1619532430476" duration="1109000" />
+      <workItem from="1619614639119" duration="160000" />
+      <workItem from="1619614837575" duration="514000" />
+      <workItem from="1619615962439" duration="329000" />
+      <workItem from="1619620326665" duration="7600000" />
+      <workItem from="1619633387011" duration="2722000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.config" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
