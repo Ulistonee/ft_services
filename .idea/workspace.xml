@@ -8,6 +8,10 @@
   <component name="ChangeListManager">
     <list default="true" id="64b4faa3-f4e4-40e1-8cae-476bdef73ebe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/rebuild.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/my_config" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/my_config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../libft/ft_strlen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libft/ft_strlen.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/Makefile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/a" beforeDir="false" />
@@ -86,7 +90,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs/phpmyadmin/srcs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -99,13 +103,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/srcs/nginx/srcs" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -135,7 +132,9 @@
       <workItem from="1619615962439" duration="329000" />
       <workItem from="1619620326665" duration="7600000" />
       <workItem from="1619633387011" duration="3300000" />
-      <workItem from="1619709927424" duration="6074000" />
+      <workItem from="1619709927424" duration="6461000" />
+      <workItem from="1619724419762" duration="32000" />
+      <workItem from="1619724730654" duration="1221000" />
     </task>
     <servers />
   </component>

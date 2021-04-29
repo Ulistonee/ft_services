@@ -2,7 +2,8 @@ server {
     listen 80;
     listen [::]:80;
 
-	root /var/www/html;
+	root /var/www/html/phpmyadmin;
+	index index.php;
 	location / {
 		try_files $uri $uri/ =404;
         #try_files $uri $uri/ /index.php$is_args$args;
