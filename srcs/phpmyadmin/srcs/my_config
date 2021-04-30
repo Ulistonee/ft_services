@@ -1,15 +1,15 @@
 server {
-    listen 80;
-    listen [::]:80;
-
-	root /var/www/html/phpmyadmin;
-	index index.php;
-	location / {
-		try_files $uri $uri/ =404;
-        #try_files $uri $uri/ /index.php$is_args$args;
+    listen 5000 default_server;
+    listen [::]:5000 default_server;
+    root /var/www/html/phpmyadmin;
+    index index.php;
+    server_name localhost;
+    location / {
+        try_files $uri $uri/ /index.php;
     }
     location ~ \.php$ {
-    		include snippets/fastcgi-php.conf;
-    		fastcgi_pass unix:/run/php/php7.3-fpm.sock;
-    	}
- }
+        fastcgi_pass      127.0.0.1:9000;
+        fastcgi_index     index.php;
+        include           /etc/nginx/fastcgi.conf;
+    }
+}
