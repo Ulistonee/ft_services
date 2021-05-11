@@ -7,8 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b4faa3-f4e4-40e1-8cae-476bdef73ebe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/srcs/mysql/srcs/mysql.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/rebuild.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/mysql/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/mysql/srcs/mysql.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/srcs/mysql.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/nginx/srcs/my_config" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/nginx/srcs/my_config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/config.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/config.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/init.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../libft/ft_strlen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libft/ft_strlen.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/Makefile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/a" beforeDir="false" />
@@ -92,23 +98,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/srcs/mysql/srcs" />
       <recent name="$PROJECT_DIR$/srcs/sandbox" />
       <recent name="$PROJECT_DIR$/srcs/nginx" />
       <recent name="$PROJECT_DIR$/srcs/phpmyadmin/srcs" />
       <recent name="$PROJECT_DIR$/srcs" />
-      <recent name="$PROJECT_DIR$/srcs/nginx/srcs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/srcs/sandbox" />
       <recent name="$PROJECT_DIR$/srcs/nginx/srcs" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -142,7 +141,12 @@
       <workItem from="1619724419762" duration="32000" />
       <workItem from="1619724730654" duration="1343000" />
       <workItem from="1619775124282" duration="4287000" />
-      <workItem from="1619782449282" duration="5715000" />
+      <workItem from="1619782449282" duration="5862000" />
+      <workItem from="1620630279662" duration="6192000" />
+      <workItem from="1620651919325" duration="2590000" />
+      <workItem from="1620723258859" duration="689000" />
+      <workItem from="1620730272991" duration="1691000" />
+      <workItem from="1620735961440" duration="3690000" />
     </task>
     <servers />
   </component>
