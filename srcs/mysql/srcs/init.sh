@@ -1,7 +1,9 @@
 #!/bin/sh
 
+echo "im running..."
 #nginx -g 'daemon off;'
-#/usr/bin/supervisord -c /etc/supervisord.conf
+openrc default
 /etc/init.d/mariadb setup
 rc-service mariadb start
-sh
+/usr/bin/supervisord -c /etc/supervisord.conf
+#sh

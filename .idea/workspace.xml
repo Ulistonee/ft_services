@@ -9,12 +9,8 @@
     <list default="true" id="64b4faa3-f4e4-40e1-8cae-476bdef73ebe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/rebuild.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/srcs/mysql/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/mysql/srcs/mysql.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/srcs/mysql.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/nginx/srcs/my_config" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/nginx/srcs/my_config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/config.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/config.inc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/init.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/mysql/srcs/init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/srcs/init.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../libft/ft_strlen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libft/ft_strlen.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/Makefile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/a" beforeDir="false" />
@@ -78,6 +74,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1rWiwVKXkNoJM4XOSPDRzDobTUc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -146,7 +150,12 @@
       <workItem from="1620651919325" duration="2590000" />
       <workItem from="1620723258859" duration="689000" />
       <workItem from="1620730272991" duration="1691000" />
-      <workItem from="1620735961440" duration="3690000" />
+      <workItem from="1620735961440" duration="3858000" />
+      <workItem from="1620820410023" duration="6942000" />
+      <workItem from="1620900198430" duration="2709000" />
+      <workItem from="1620908880495" duration="491000" />
+      <workItem from="1620991121481" duration="1855000" />
+      <workItem from="1621003931020" duration="2139000" />
     </task>
     <servers />
   </component>

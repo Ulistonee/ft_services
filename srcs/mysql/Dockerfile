@@ -1,15 +1,15 @@
 FROM alpine:3.7
 
 RUN apk update && apk upgrade
-#RUN apk add mysql mysql-client openrc
+RUN apk add mysql mysql-client openrc supervisor vim
+
+#RUN apk add mariadb mariadb-common mariadb-client supervisor vim
+
 COPY srcs/supervisor.conf /etc/supervisord.conf
-
-RUN apk add mariadb mariadb-common mariadb-client
-
 COPY srcs/init.sh ./
 COPY srcs/my.cnf /etc/mysql/
 
 EXPOSE 3306
 
-#CMD sh init.sh
-CMD sh
+CMD sh init.sh
+#CMD ["sh"]
