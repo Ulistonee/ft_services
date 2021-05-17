@@ -15,7 +15,7 @@ RUN mv phpMyAdmin-5.0.1-english phpmyadmin
 
 WORKDIR /var/www/html/phpmyadmin
 
-COPY ./srcs/config.inc.php phpmyadmin
+COPY ./srcs/config.inc.php .
 COPY ./srcs/init.sh ./
 RUN mkdir -p /run/nginx
 

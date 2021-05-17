@@ -7,10 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b4faa3-f4e4-40e1-8cae-476bdef73ebe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/srcs/mysql/rebuild.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/nginx/rebuild.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/phpmyadmin/rebuild.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/test_connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/wordpress/rebuild.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/wordpress/srcs/supervisor.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/wordpress/srcs/wp-config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/rebuild.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/srcs/mysql/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/srcs/mysql/srcs/init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/srcs/init.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/mysql/srcs/supervisor.conf" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/srcs/supervisor.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/config.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/config.inc.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../libft/ft_strlen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libft/ft_strlen.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/Makefile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/a" beforeDir="false" />
@@ -97,21 +108,29 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs/mysql/srcs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs/wordpress/srcs" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/srcs/wordpress/srcs" />
       <recent name="$PROJECT_DIR$/srcs/mysql/srcs" />
       <recent name="$PROJECT_DIR$/srcs/sandbox" />
       <recent name="$PROJECT_DIR$/srcs/nginx" />
       <recent name="$PROJECT_DIR$/srcs/phpmyadmin/srcs" />
-      <recent name="$PROJECT_DIR$/srcs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/srcs/wordpress" />
       <recent name="$PROJECT_DIR$/srcs/sandbox" />
       <recent name="$PROJECT_DIR$/srcs/nginx/srcs" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -156,6 +175,14 @@
       <workItem from="1620908880495" duration="491000" />
       <workItem from="1620991121481" duration="1855000" />
       <workItem from="1621003931020" duration="2139000" />
+      <workItem from="1621007619163" duration="219000" />
+      <workItem from="1621159623232" duration="474000" />
+      <workItem from="1621171471552" duration="1614000" />
+      <workItem from="1621178622642" duration="5447000" />
+      <workItem from="1621185914861" duration="2117000" />
+      <workItem from="1621243489766" duration="2521000" />
+      <workItem from="1621246875955" duration="2596000" />
+      <workItem from="1621254193386" duration="7489000" />
     </task>
     <servers />
   </component>
@@ -163,6 +190,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Dockerfile" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.config" />

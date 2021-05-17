@@ -9,6 +9,7 @@
  *
  * @package PhpMyAdmin
  */
+
 declare(strict_types=1);
 
 /**
@@ -30,10 +31,14 @@ $i++;
 $cfg['Servers'][$i]['auth_type'] = 'cookie';
 /* Server parameters */
 $cfg['Servers'][$i]['host'] = 'mysql-svc:3306';
+// $cfg['Servers'][$i]['host'] = '10.97.62.109:3306';
 $cfg['Servers'][$i]['user'] = 'admin';
-$cfg['Servers'][$i]['password'] = 'admin';
+$cfg['Servers'][$i]['password'] = '1234';
 $cfg['Servers'][$i]['compress'] = false;
-$cfg['Servers'][$i]['AllowNoPassword'] = true;
+$cfg['Servers'][$i]['AllowNoPassword'] = false;
+$cfg['TempDir'] = '/tmp';
+$cfg['UploadDir'] = '';
+$cfg['SaveDir'] = '';
 
 /**
  * phpMyAdmin configuration storage settings.
@@ -74,8 +79,7 @@ $cfg['Servers'][$i]['AllowNoPassword'] = true;
 /**
  * Directories for saving/loading files from server
  */
-$cfg['UploadDir'] = '';
-$cfg['SaveDir'] = '';
+
 
 /**
  * Whether to display icons or text or both icons and text in table row
