@@ -20,6 +20,6 @@
 
 #./srcs/nginx/rebuild.sh
 #./srcs/phpmyadmin/rebuild.sh
-#./srcs/mysql/rebuild.sh
+./srcs/mysql/rebuild.sh
 ./srcs/wordpress/rebuild.sh
 

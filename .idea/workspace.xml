@@ -7,21 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b4faa3-f4e4-40e1-8cae-476bdef73ebe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/srcs/mysql/rebuild.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/nginx/rebuild.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/phpmyadmin/rebuild.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/test_connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/wordpress/rebuild.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/wordpress/srcs/supervisor.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcs/wordpress/srcs/wp-config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/rebuild.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/srcs/mysql/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/srcs/mysql/srcs/init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/srcs/init.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/mysql/srcs/supervisor.conf" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/srcs/supervisor.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/config.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/config.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/wordpress/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/wordpress/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/wordpress/srcs/init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/wordpress/srcs/init.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/wordpress/srcs/my_config" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/wordpress/srcs/my_config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../libft/ft_strlen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libft/ft_strlen.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/Makefile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/a" beforeDir="false" />
@@ -125,13 +117,6 @@
       <recent name="$PROJECT_DIR$/srcs/nginx/srcs" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -182,7 +167,13 @@
       <workItem from="1621185914861" duration="2117000" />
       <workItem from="1621243489766" duration="2521000" />
       <workItem from="1621246875955" duration="2596000" />
-      <workItem from="1621254193386" duration="7489000" />
+      <workItem from="1621254193386" duration="7762000" />
+      <workItem from="1621334022814" duration="2455000" />
+      <workItem from="1621416969434" duration="1467000" />
+      <workItem from="1621430536003" duration="1424000" />
+      <workItem from="1621584315117" duration="4121000" />
+      <workItem from="1621598396113" duration="2822000" />
+      <workItem from="1621619272433" duration="2581000" />
     </task>
     <servers />
   </component>

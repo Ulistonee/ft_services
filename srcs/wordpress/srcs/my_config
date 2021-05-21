@@ -2,6 +2,7 @@ server {
     listen 5050 default_server;
     listen [::]:5050 default_server;
     root /var/www/html/wordpress;
+#    root ./;
     index index.php;
     server_name localhost;
     location / {
