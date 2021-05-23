@@ -9,12 +9,48 @@
     <list default="true" id="64b4faa3-f4e4-40e1-8cae-476bdef73ebe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/rebuild.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/mysql/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/mysql/srcs/init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/mysql/srcs/init.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/wordpress/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/wordpress/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/wordpress/srcs/init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/wordpress/srcs/init.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/wordpress/srcs/my_config" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/wordpress/srcs/my_config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_strlen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libft/ft_strlen.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/ftps/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/ftps/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/nginx/srcs/nginx.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/nginx/srcs/nginx.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/phpmyadmin.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/phpmyadmin.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_atoi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_bzero.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_calloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_isalnum.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_isalpha.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_isascii.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_isdigit.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_isprint.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_itoa.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_lstnew.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_memccpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_memchr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_memcmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_memcpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_memmove.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_memset.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_putchar_fd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_putendl_fd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_putnbr_fd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_putstr_fd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_split.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_strchr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_strdup.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_strjoin.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_strlcat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_strlcpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_strlen.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_strmapi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_strncmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_strnstr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_strrchr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_strtrim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_substr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_tolower.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/ft_toupper.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libft/libft.h" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/Makefile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../printf/ft_printf.c" beforeDir="false" />
@@ -101,7 +137,12 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs/wordpress/srcs" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -112,6 +153,7 @@
       <recent name="$PROJECT_DIR$/srcs/phpmyadmin/srcs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/srcs/ftps" />
       <recent name="$PROJECT_DIR$/srcs/wordpress" />
       <recent name="$PROJECT_DIR$/srcs/sandbox" />
       <recent name="$PROJECT_DIR$/srcs/nginx/srcs" />
@@ -173,7 +215,11 @@
       <workItem from="1621430536003" duration="1424000" />
       <workItem from="1621584315117" duration="4121000" />
       <workItem from="1621598396113" duration="2822000" />
-      <workItem from="1621619272433" duration="2581000" />
+      <workItem from="1621619272433" duration="2634000" />
+      <workItem from="1621762641254" duration="3004000" />
+      <workItem from="1621769149640" duration="2319000" />
+      <workItem from="1621773374263" duration="1584000" />
+      <workItem from="1621777371435" duration="3972000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#eval $(minikube docker-env)
+eval $(minikube docker-env)
 #
 #kubectl delete svc nginx-svc
 #kubectl delete deploy nginx-deployment
@@ -20,6 +20,7 @@
 
 #./srcs/nginx/rebuild.sh
 #./srcs/phpmyadmin/rebuild.sh
-./srcs/mysql/rebuild.sh
-./srcs/wordpress/rebuild.sh
+#./srcs/mysql/rebuild.sh
+#./srcs/wordpress/rebuild.sh
+./srcs/ftps/rebuild.sh
 
