@@ -8,11 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="64b4faa3-f4e4-40e1-8cae-476bdef73ebe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/rebuild.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/ftps/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/ftps/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/nginx/srcs/nginx.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/nginx/srcs/nginx.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/phpmyadmin.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/phpmyadmin.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../libft/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../libft/Makefile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../libft/ft_atoi.c" beforeDir="false" />
@@ -219,7 +214,7 @@
       <workItem from="1621762641254" duration="3004000" />
       <workItem from="1621769149640" duration="2319000" />
       <workItem from="1621773374263" duration="1584000" />
-      <workItem from="1621777371435" duration="3972000" />
+      <workItem from="1621777371435" duration="4253000" />
     </task>
     <servers />
   </component>
