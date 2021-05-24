@@ -12,6 +12,7 @@ docker build -t phpmyadmin_image srcs/phpmyadmin/
 docker build -t mysql_image srcs/mysql/
 docker build -t wordpress_image srcs/wordpress/
 docker build -t ftps_image srcs/ftps/
+docker build -t grafana_image srcs/grafana/
 
 kubectl apply -f srcs/nginx/srcs/configmap.yaml
 kubectl apply -f srcs/nginx/srcs/nginx.yaml
@@ -19,6 +20,7 @@ kubectl apply -f srcs/phpmyadmin/srcs/phpmyadmin.yaml
 kubectl apply -f srcs/mysql/srcs/mysql.yaml
 kubectl apply -f srcs/wordpress/srcs/wordpress.yaml
 kubectl apply -f srcs/ftps/srcs/ftps.yaml
+kubectl apply -f srcs/grafana/srcs/grafana.yaml
 
 # kubectl get pods --all-namespaces       мы можем увидеть список запущенных в кластере подов
 # kubectl get nodes                       список нод
