@@ -7,100 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b4faa3-f4e4-40e1-8cae-476bdef73ebe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/srcs/influxdb/rebuild.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/rebuild.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/srcs/grafana/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/grafana/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_atoi.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_bzero.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_calloc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_isalnum.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_isalpha.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_isascii.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_isdigit.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_isprint.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_itoa.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_lstnew.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_memccpy.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_memchr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_memcmp.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_memcpy.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_memmove.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_memset.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_putchar_fd.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_putendl_fd.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_putnbr_fd.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_putstr_fd.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_split.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_strchr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_strdup.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_strjoin.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_strlcat.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_strlcpy.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_strlen.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_strmapi.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_strncmp.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_strnstr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_strrchr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_strtrim.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_substr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_tolower.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/ft_toupper.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../libft/libft.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/ft_printf.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/ft_printf.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/ft_putxnbr_fd.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_atoi.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_bzero.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_calloc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_isalnum.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_isalpha.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_isascii.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_isdigit.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_isprint.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_itoa.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_lstnew.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_memccpy.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_memchr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_memcmp.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_memcpy.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_memmove.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_memset.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_putchar_fd.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_putendl_fd.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_putnbr_fd.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_putstr_fd.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_split.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_strchr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_strdup.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_strjoin.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_strlcat.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_strlcpy.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_strlen.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_strmapi.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_strncmp.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_strnstr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_strrchr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_strtrim.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_substr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_tolower.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/ft_toupper.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/libft/libft.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/my_printf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/parser/ft_parser.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/printf_jerrod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/processor/ft_processor.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/processor/process_c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/processor/process_d.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printf/va_arg.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/influxdb/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/influxdb/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +48,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs/wordpress/srcs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs/influxdb/srcs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -145,13 +58,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/srcs/influxdb/srcs" />
       <recent name="$PROJECT_DIR$/srcs/wordpress/srcs" />
       <recent name="$PROJECT_DIR$/srcs/mysql/srcs" />
       <recent name="$PROJECT_DIR$/srcs/sandbox" />
       <recent name="$PROJECT_DIR$/srcs/nginx" />
-      <recent name="$PROJECT_DIR$/srcs/phpmyadmin/srcs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/srcs/influxdb" />
       <recent name="$PROJECT_DIR$/srcs/ftps" />
       <recent name="$PROJECT_DIR$/srcs/wordpress" />
       <recent name="$PROJECT_DIR$/srcs/sandbox" />
@@ -221,6 +135,8 @@
       <workItem from="1621777371435" duration="5004000" />
       <workItem from="1621840681569" duration="3566000" />
       <workItem from="1621861262461" duration="3015000" />
+      <workItem from="1622016703839" duration="3379000" />
+      <workItem from="1622052937179" duration="2227000" />
     </task>
     <servers />
   </component>
@@ -248,6 +164,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/ft_services" />
+      <path value="$USER_HOME$" />
     </ignored-roots>
   </component>
 </project>

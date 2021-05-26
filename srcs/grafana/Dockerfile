@@ -1,7 +1,7 @@
 FROM alpine:3.12
 
 RUN apk update && apk upgrade
-RUN apk add wget supervisor vim
+RUN apk add wget vim
 
 RUN wget https://dl.grafana.com/enterprise/release/grafana-enterprise-7.5.7.linux-amd64.tar.gz
 RUN tar -zxvf grafana-enterprise-7.5.7.linux-amd64.tar.gz  &&  rm grafana-enterprise-7.5.7.linux-amd64.tar.gz

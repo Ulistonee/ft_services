@@ -22,6 +22,6 @@ eval $(minikube docker-env)
 #./srcs/phpmyadmin/rebuild.sh
 #./srcs/mysql/rebuild.sh
 #./srcs/wordpress/rebuild.sh
-./srcs/grafana/rebuild.sh
-./srcs/grafana/rebuild.sh
+#./srcs/grafana/rebuild.sh
+./srcs/influxdb/rebuild.sh
 

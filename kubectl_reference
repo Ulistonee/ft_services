@@ -1,0 +1,1 @@
+kubectl cp default/grafana-deployment-66df65c774-29ss4:/grafana-7.5.7/data /home/ulistonee/ft_services/srcs/grafana/srcs

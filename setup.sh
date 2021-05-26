@@ -1,6 +1,7 @@
 #!/bin/bash
 minikube delete
-minikube start --vm-driver=virtualbox
+minikube start --vm-driver=none
+#minikube start --vm-driver=virtualbox
 minikube addons enable metallb
 # update metallb addon
 docker pull metallb/speaker:v0.8.2
@@ -13,6 +14,7 @@ docker build -t mysql_image srcs/mysql/
 docker build -t wordpress_image srcs/wordpress/
 docker build -t ftps_image srcs/ftps/
 docker build -t grafana_image srcs/grafana/
+docker build -t influxdb_image srcs/influxdb/
 
 kubectl apply -f srcs/nginx/srcs/configmap.yaml
 kubectl apply -f srcs/nginx/srcs/nginx.yaml
@@ -21,6 +23,7 @@ kubectl apply -f srcs/mysql/srcs/mysql.yaml
 kubectl apply -f srcs/wordpress/srcs/wordpress.yaml
 kubectl apply -f srcs/ftps/srcs/ftps.yaml
 kubectl apply -f srcs/grafana/srcs/grafana.yaml
+kubectl apply -f srcs/influxdb/srcs/influxdb.yaml
 
 # kubectl get pods --all-namespaces       мы можем увидеть список запущенных в кластере подов
 # kubectl get nodes                       список нод
