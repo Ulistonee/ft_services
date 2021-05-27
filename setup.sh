@@ -1,7 +1,7 @@
 #!/bin/bash
 minikube delete
-minikube start --vm-driver=none
-#minikube start --vm-driver=virtualbox
+#minikube start --vm-driver=none
+minikube start --vm-driver=virtualbox
 minikube addons enable metallb
 # update metallb addon
 docker pull metallb/speaker:v0.8.2

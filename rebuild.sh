@@ -18,10 +18,10 @@ eval $(minikube docker-env)
 #kubectl apply -f srcs/phpmyadmin/srcs/phpmyadmin.yaml
 #kubectl apply -f srcs/mysql/srcs/mysql.yaml
 
-#./srcs/nginx/rebuild.sh
+./srcs/nginx/rebuild.sh
 #./srcs/phpmyadmin/rebuild.sh
 #./srcs/mysql/rebuild.sh
 #./srcs/wordpress/rebuild.sh
 #./srcs/grafana/rebuild.sh
-./srcs/influxdb/rebuild.sh
+#./srcs/influxdb/rebuild.sh
 

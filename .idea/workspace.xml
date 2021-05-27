@@ -7,13 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b4faa3-f4e4-40e1-8cae-476bdef73ebe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/srcs/influxdb/rebuild.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kubectl_reference" beforeDir="false" afterPath="$PROJECT_DIR$/kubectl_reference" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minikube" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/rebuild.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/srcs/grafana/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/grafana/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/influxdb/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/influxdb/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/grafana/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/grafana/rebuild.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/grafana/srcs/grafana.db" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/grafana/srcs/grafana.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/grafana/srcs/log/grafana.log" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/grafana/srcs/log/grafana.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/nginx/srcs/my_config" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/nginx/srcs/my_config" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +54,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs/influxdb/srcs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -137,6 +142,9 @@
       <workItem from="1621861262461" duration="3015000" />
       <workItem from="1622016703839" duration="3379000" />
       <workItem from="1622052937179" duration="2227000" />
+      <workItem from="1622115380682" duration="244000" />
+      <workItem from="1622116090420" duration="2110000" />
+      <workItem from="1622131579772" duration="128000" />
     </task>
     <servers />
   </component>
