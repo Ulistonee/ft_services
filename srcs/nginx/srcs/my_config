@@ -1,6 +1,5 @@
 server {
      listen 80;
-
      return 301 https://$host$request_uri;
 }
 
@@ -10,7 +9,6 @@ server {
      ssl_certificate /etc/ssl/nginx-selfsigned.crt;
      ssl_certificate_key /etc/ssl/nginx-selfsigned.key;
      error_page 497 https://$host:$server_port$request_uri;
-
      location / {
         try_files $uri $uri/ =404;
         #try_files $uri $uri/ /index.php$is_args$args;
@@ -18,4 +16,10 @@ server {
      location /wordpress {
         return 307 http://$host:5050/;
      }
- }
+     location /phpmyadmin/ {
+        proxy_pass http://192.168.99.100:5000/;
+        # because phpmyadmin/index.php looks for in phpmyadmin folder of port 5000
+        # like 'phpmyadmin/phpmyadmin/index.php'
+        proxy_redirect /index.php /phpmyadmin/index.php;
+     }
+}

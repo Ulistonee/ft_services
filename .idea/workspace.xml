@@ -7,16 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b4faa3-f4e4-40e1-8cae-476bdef73ebe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kubectl_reference" beforeDir="false" afterPath="$PROJECT_DIR$/kubectl_reference" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minikube" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/rebuild.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/grafana/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/grafana/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/grafana/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/grafana/rebuild.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/grafana/srcs/grafana.db" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/grafana/srcs/grafana.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/grafana/srcs/log/grafana.log" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/grafana/srcs/log/grafana.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/nginx/srcs/configmap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/nginx/srcs/configmap.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/srcs/nginx/srcs/my_config" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/nginx/srcs/my_config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/config.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/config.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/wordpress/srcs/wordpress.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/wordpress/srcs/wordpress.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/wordpress/srcs/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/wordpress/srcs/wp-config.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +143,8 @@
       <workItem from="1622115380682" duration="244000" />
       <workItem from="1622116090420" duration="2110000" />
       <workItem from="1622131579772" duration="128000" />
+      <workItem from="1622211279539" duration="1826000" />
+      <workItem from="1622223891537" duration="464000" />
     </task>
     <servers />
   </component>
