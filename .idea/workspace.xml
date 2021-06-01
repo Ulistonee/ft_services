@@ -10,11 +10,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/rebuild.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/nginx/srcs/configmap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/nginx/srcs/configmap.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/nginx/srcs/my_config" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/nginx/srcs/my_config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/config.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/phpmyadmin/srcs/config.inc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/wordpress/srcs/wordpress.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/wordpress/srcs/wordpress.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srcs/wordpress/srcs/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/wordpress/srcs/wp-config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/ftps/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/ftps/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/ftps/rebuild.sh" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/ftps/rebuild.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/ftps/srcs/init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/ftps/srcs/init.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/ftps/srcs/vsftpd.conf" beforeDir="false" afterPath="$PROJECT_DIR$/srcs/ftps/srcs/vsftpd.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/srcs/influxdb/srcs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,7 +56,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -144,7 +143,13 @@
       <workItem from="1622116090420" duration="2110000" />
       <workItem from="1622131579772" duration="128000" />
       <workItem from="1622211279539" duration="1826000" />
-      <workItem from="1622223891537" duration="464000" />
+      <workItem from="1622223891537" duration="580000" />
+      <workItem from="1622458694071" duration="1842000" />
+      <workItem from="1622474295119" duration="1668000" />
+      <workItem from="1622479745979" duration="45000" />
+      <workItem from="1622534787061" duration="267000" />
+      <workItem from="1622544861439" duration="2001000" />
+      <workItem from="1622556907430" duration="1811000" />
     </task>
     <servers />
   </component>
