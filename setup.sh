@@ -25,6 +25,8 @@ kubectl apply -f srcs/ftps/srcs/ftps.yaml
 kubectl apply -f srcs/grafana/srcs/grafana.yaml
 kubectl apply -f srcs/influxdb/srcs/influxdb.yaml
 
+minikube dashboard
+
 # kubectl get pods --all-namespaces       мы можем увидеть список запущенных в кластере подов
 # kubectl get nodes                       список нод
 # kubectl get services                    список сервисов
